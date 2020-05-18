@@ -120,4 +120,4 @@ for {
 
 Acabamos! Agora temos fantasmas que se movem! Como é assustador huh?!-_-''''.
 
-[Leve-me ao passo 05!](.../passo05/README.md)
+[Leve-me ao passo 05!](../passo05/README.md)
