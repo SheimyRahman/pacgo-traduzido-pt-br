@@ -45,7 +45,7 @@ Tudo isso se unem e formam o código abaixo:
 var maze []string
 
 func loadMaze(file string) error {
-    f, err := os.Open()
+    f, err := os.Open(file)
     if err != nil {
         return err
     }
