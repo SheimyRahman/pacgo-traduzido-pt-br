@@ -235,4 +235,4 @@ go run main.go
 
 Você deverá ver o labirinto impresso no terminal.
 
-[Leve-me ao passo 02!](.../passo02/README.md)
+[Leve-me ao passo 02!](../passo02/README.md)

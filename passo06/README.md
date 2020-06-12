@@ -152,4 +152,4 @@ Também vamos precisar introduzir um delay de 200ms. Já que agora não estamos 
 
 Tente executar o jogo agora. Muito mais emocionante, não é? :)
 
-[Leve-me para o passo 07!](.../passo07/README.md)
+[Leve-me para o passo 07!](../passo07/README.md)

@@ -137,4 +137,4 @@ Estamos fazendo progresso!
 
 (Dica: o maze01.txt na pasta passo05 possui apenas 3 pontos).
 
-[Leve-me ao passo 06!](.../passo06/README.md)
+[Leve-me ao passo 06!](../passo06/README.md)
