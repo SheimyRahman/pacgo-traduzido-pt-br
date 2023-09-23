@@ -185,4 +185,4 @@ Por favor note que se você clicar em Ctrl+C sem querer o programa irá terminar
 
 Se você entrar nessa situação, encerre o terminal e reabra-o ou simplesmente execute o jogo novamente e saia elegantemente usando a tecla `ESC`.
 
-[Leve-me para o passo 03!](.../passo03/README.md)
+[Leve-me para o passo 03!](../passo03/README.md)

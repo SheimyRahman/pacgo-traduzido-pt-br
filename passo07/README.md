@@ -184,4 +184,4 @@ Uma coisa interessante sobre o código acima é que estamos definindo uma funç�
 
 E agora, temos emojis! Quão maravilhoso isso é?! :)
 
-[Leve-me ao passo 08!](.../passo08/README.md)
+[Leve-me ao passo 08!](../passo08/README.md)

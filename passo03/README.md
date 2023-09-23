@@ -229,4 +229,4 @@ for {
 
 Vamos continuar?!
 
-[Leve-me ao passo 04!](.../passo04/README.md)
+[Leve-me ao passo 04!](../passo04/README.md)
